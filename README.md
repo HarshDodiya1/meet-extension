@@ -1,10 +1,12 @@
 # Meet Extension
 
+Are you joining a meet call but don't want to be the first one to do so? If this describes you, we have the solution for you!
+
 A Chrome extension for Google Meet that notifies users whenever a new member joins the meeting. This tool is particularly useful for teachers, team leaders, and anyone who needs to stay aware of participants joining a virtual meeting without constantly monitoring the participant list.
 
 ## Demo
 
-![Example](success.png)
+![Example](https://github.com/HarshDodiya1/meet-extension/blob/main/Meet%20joinees.png)
 
 ## Features
 
